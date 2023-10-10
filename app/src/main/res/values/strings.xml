@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment3 Hacktiv8</string>
+    <string name="total_cases">Total Cases in the World</string>
+    <string name="total_recoverd">Total Recovered in the World</string>
+    <string name="total_death">Total Death in the World</string>
+    <string name="zero">0</string>
+</resources>
